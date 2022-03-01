@@ -1,0 +1,266 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of several eminent Roman Catholicks in this kingdom of England, who did embrace the Protestant religion, with their reasons for their change deliver'd in their words, at their embracing the Protestant religion. To which is added a catalogue of sundry great persons of the Roman-Catholick religion, that are now turned to the true Protestant-religion of the Church of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02897</idno>
+            <idno type="STC">Wing D617A</idno>
+            <idno type="STC">ESTC R176402</idno>
+            <idno type="EEBO-CITATION">52612113</idno>
+            <idno type="OCLC">ocm 52612113</idno>
+            <idno type="VID">179395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179395)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2787:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of several eminent Roman Catholicks in this kingdom of England, who did embrace the Protestant religion, with their reasons for their change deliver'd in their words, at their embracing the Protestant religion. To which is added a catalogue of sundry great persons of the Roman-Catholick religion, that are now turned to the true Protestant-religion of the Church of England.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestant converts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179395:1"/>
+            <pb facs="tcp:179395:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of ſeveral Eminent Roman Catholicks In this KINGDOM of <hi>ENGLAND,</hi> Who did Embrace the <hi>Proteſtant Religion,</hi> With their <hi>Reaſons</hi> for their <hi>Change</hi> deliver'd in their own <hi>Words,</hi> at their Embracing the <hi>Proteſtant Religion.</hi>
+            </p>
+            <p>To which is Added A Catalogue of ſundry great Perſons of the <hi>Roman-Catholick Religion,</hi> that are now turned to the true <hi>Proteſtant-Religion</hi> of the <hi>Church of England.</hi>
+            </p>
+            <p>
+               <hi>Licenſed.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. B.</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:179395:2"/>
+            <pb n="3" facs="tcp:179395:2"/>
+            <head>The Declaration of ſeveral Eminent <hi>Roman Catho<g ref="char:EOLhyphen"/>licks</hi> in this Kingdom of <hi>England,</hi> who did Em<g ref="char:EOLhyphen"/>brace the <hi>Proteſtant Religion;</hi> with their <hi>Reaſons</hi> for their <hi>Change,</hi> deliver'd in their own Words, <hi>&amp;c.</hi>
+            </head>
+            <p>THey that will derive the Goodneſs or Truth of a Religion from the Proſelytes which it makes, ought to conſider the Equality of the Perſons, and the End of their Conver<g ref="char:EOLhyphen"/>ſion. For what ſignifies the Turning of half a ſcore Perſons to the <hi>Romiſh Religion,</hi> though their Number ſhould be trebled; where for one that ſubmits his miſguided Reaſon, ten are de<g ref="char:EOLhyphen"/>luded by their Paſſions, or follow the Current of the Times, Allur'd by private Hopes, and the Arguments of Self-Intereſt.</p>
+            <p>Of this Number was <hi>Peter Eſpinal,</hi> Archbiſhop of <hi>Lyons,</hi> who having embraced the Doctrine of the <hi>Proteſtants</hi> in his younger years, afterwards chang'd his Opinion, and became an invete<g ref="char:EOLhyphen"/>rate Proſecutor of the Reformed;<note place="margin">Thuan. l. <hi>8<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> &amp; <hi>122.</hi>
+               </note> but it was not his Zeal that made him ſo furious, but his eager Ambition of a Cardinals Cap, to which he ſacrific'd his otherwiſe great Learning and Parts. Nor was this all; for having waſted his own Demeans to run in Debt, he knew no other way to ſupply his luxurious Extrava<g ref="char:EOLhyphen"/>gance, than by ſiding with the <hi>Guiſian</hi> or <hi>Henotic</hi> Faction: At the ſame time not only a Turncoat from his Religion, but a Re<g ref="char:EOLhyphen"/>bel to his Prince.</p>
+            <p>The next to him, we find <hi>Francis Balduinus,</hi> who having em<g ref="char:EOLhyphen"/>brac'd the <hi>Proteſtant Religion</hi> in <hi>Germany,</hi>
+               <note place="margin">
+                  <hi>Thuan. l.</hi> 53.57.</note> at length return'd to the <hi>Romiſh perſwaſion,</hi> upon the fair hopes he had of being preferr'd in <hi>Poland,</hi> by <hi>Henry</hi> the Third, afterwards King of <hi>France,</hi> had he not been prevented by Death.</p>
+            <p>Theſe were Men of great Parts and Learning, and that we ſee how their Hopes and their Fears betray'd them.</p>
+            <p>But we are now to give a Particular Account of ſeveral Perſons of no leſs Grandeur and Learn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, that being before Devout Sons of <hi>Popery,</hi> abandon'd the Ceremonies of <hi>Rome,</hi> and making choice of the <hi>Proteſtant profeſſion,</hi> at the ſame time that they might not be tax'd of Inconſtancy or Worldly Drifts; publiſhed the true Reaſons of their Coverſion.</p>
+            <pb n="4" facs="tcp:179395:3"/>
+            <p>We ſhall begin with <hi>Annus Burgus,</hi> a Senator of <hi>Paris,</hi> at firſt only ſuſpected to favour the <hi>Proteſtants,</hi> was by <hi>Henry</hi> the Second of <hi>France,</hi> ſent to the <hi>Baſtile;</hi> at which time being declar'd a Heretick by his Judges, he appeal'd to the Archbiſhop of <hi>Sens,</hi> which Appeal being judged frivolous, he was ſent back to the Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Paris,</hi> by whom being then degraded from his Sacerdo<g ref="char:EOLhyphen"/>tal Character, he then made open profeſſion of the <hi>Proteſtant Religion;</hi> teſtifying his joy for the kindneſs they had done him; <hi>for that the Character of the Beaſt being now,</hi> as he ſaid, <hi>defac'd, he ſhould have nothing more to do with Antichriſt;</hi> and that there might be no queſtion of his Converſion, he removed his firſt Confeſſion as ambiguous, and gave into Court another more clearly agreeing with the Doctrine of <hi>Geneva</hi> and <hi>Switzerland,</hi> wherein after he had ſharply enveighed againſt the <hi>Pope</hi> and the Ceremonies of <hi>Rome,</hi> he declar'd himſelf prepar'd either to live or dye, for which at laſt he was adjudged to be Burnt; which Sentence, as he heard with an undaunted Courage, ſo at the Stake he gave the People to underſtand, <hi>that he did not come there to ſuffer as a Malefactor, but for adhering to the truth of the Goſpel:</hi> his Death was deplor'd by many that thought ill of his Conver<g ref="char:EOLhyphen"/>ſion: <hi>However,</hi> ſays the Hiſtorian, <hi>it partly ſo confirm'd the minds of ſome that had forſaken the Religion, and likewiſe ſo exaſperated others, as it may be truly ſaid, that out of his Aſhes ſprung that prodigious harveſt of Revolts and Conſpiracies,</hi>
+               <note place="margin">
+                  <hi>Thuan. l.</hi> 22.23.</note> 
+               <hi>which afterwards for ſo long time harras'd a moſt flouriſhing Kingdom.</hi> And the Author of the Council of <hi>Trent</hi> makes this Remark upon him,<note place="margin">Counc. of Trent. l. <hi>5.</hi>
+               </note> 
+               <hi>That the Death and Conſtancy of a Perſon ſo Conſpicuous, waken'd a Curioſity in ma<g ref="char:EOLhyphen"/>ny, to underſtand what that Religion ſhould be for which ſo great a Man had ſuffer'd ſo Couragiouſly: and complains that it much en<g ref="char:EOLhyphen"/>creas'd the number of</hi> Proteſtant Proſelytes.</p>
+            <p>
+               <hi>Garſias Arias,</hi> a <hi>Spaniard,</hi> and Monk of the Monaſtery of St. <hi>Iſidore,</hi> in <hi>Sevil,</hi> a Perſon of an acute Wit and rare Learning, of a rigid <hi>Roman Catholick,</hi> became a Preacher of the <hi>Reformed Religion,</hi> even under the noſe of the Inquiſition; in ſo much, that <hi>Philip</hi> the 2d. returning into <hi>Spain,</hi> was much amaz'd, to hear that the <hi>Reformed Religion</hi> was crept into his <hi>Moſt Catholick</hi> Do<g ref="char:EOLhyphen"/>minions.
+<pb n="5" facs="tcp:179395:3"/>At firſt <hi>Garſias</hi> was too hard for the Inquiſitors, ſtill baffling their Objections by the ſmartneſs of his Arguments. But being at length Conv en'd before them upon ſurer Evidence, he plainly ſhew'd that it was not out of Self-Intereſt, but out of a real Convincement that he was in an Error before, that he had abandoned the <hi>Popiſh Religion,</hi> elſe he would never have ſo bold<g ref="char:EOLhyphen"/>ly Confronted the Cruel Tribunal, as to tell them, <hi>They were fitter for the vile Drudgery of Oſtlers,</hi>
+               <note place="margin">Thuan. l. <hi>23.</hi>
+               </note> 
+               <hi>than to aſſume themſelves to be the Cenſurers of a Faith which they ſo little underſtood;</hi> declar<g ref="char:EOLhyphen"/>ing at the ſame time, his hearty Repentance for having formerly ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppos'd the Maintainers of that Faith before them, and for which he ſhould always be ſorry as long as he had; whereupon ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was forthwith Condemn'd, and ſoon after led in Triumph to F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aggot, and Burnt alive.</p>
+            <p>
+               <hi>Wolfangus <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſcabus,</hi> was alſo in his younger years, a Monk, till better Information made him forſake the Ceremonies of the <hi>Romiſh</hi> Church, and adhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to the <hi>Proteſtant</hi> Religion, of which he afterwards became a moſt painful and Famous Preacher to his dying day.</p>
+            <p>
+               <hi>Melchior Roman,</hi> a <hi>Spaniard,</hi> and once Procurator of the Or<g ref="char:EOLhyphen"/>der of the <hi>Jacobins</hi> at <hi>Rome</hi> for the Prov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of <hi>Tholouſe,</hi> having at laſt deſerted the Church of <hi>Rome,</hi> made a publick Declaration of his Converſion in the <hi>Reformed</hi> Church of <hi>Bergeral,</hi> in the year 1600. wherein he gives an ample account of the Reaſons which induc'd him to change his Religion, to this effect:</p>
+            <p>His firſt Exception is, <hi>That the Conſecrated Sacrament ſhould be ſubject to the eating of Mice and Rats;</hi> he alledges that he ſaw at <hi>Lymoges,</hi> in the Convent of the <hi>Jacobins,</hi> an infinite number of Conſecrated Sacrifices eaten with Rats and Worms,<note place="margin">
+                  <hi>Atteſted by</hi> Volater<g ref="char:EOLhyphen"/>ranus <hi>l.</hi> 5. Georg.</note> and all wrapt about with Cobwebbs: He relates how <hi>Gregory</hi> the Seventh, ha<g ref="char:EOLhyphen"/>ving conſulted the Sacrament touching the Revealing of certain matters againſt the Emperour, and receiving no anſwer, threw it into the Fire. He adds, that <hi>Victor</hi> the Third, a Biſhop of <hi>Ebora,</hi> and the Emperor <hi>Henry</hi> the 7th. were poyſoned in taking the Sacrament. Strange Abſurdities, and prodigious Acts, to which <hi>Tranſubſtantiation</hi> would ſubject the Body of <hi>Chriſt,</hi> if the Doctrine were true.</p>
+            <pb n="6" facs="tcp:179395:4"/>
+            <p>His next Exception is againſt the Privation of the <hi>Cup,</hi> con<g ref="char:EOLhyphen"/>trary to the <hi>commands of Chriſt, Drink ye all,</hi> and the <hi>Practice of the Church,</hi> 1 <hi>Cor.</hi> 11.</p>
+            <p>His third Exception is againſt <hi>Purgatory,</hi> as if the unſpeakable Dignity of the Sacrifice of <hi>Chriſt,</hi> were not able to blot out our Offences, to reconcile our Souls to God, and to juſtifie <hi>before</hi> the Throne of Juſtice: Beſides, he aſſures <hi>himſelf,</hi> that it is a great diminiſhing of <hi>Gods</hi> Mercy, Grace, and unſpeakable Favour, and a too-much eclipſing of the matchleſs Glory <hi>of the Ocean of his compaſſions.</hi>
+            </p>
+            <p>His next Exception is againſt the <hi>Canonizing of Saints,</hi> by which means the ſilly ignorant People are induc'd to commit <hi>Idolatry and Spiritual Fornication;</hi> impiouſly and incredulou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly againſt <hi>God,</hi> who is able to ſave and reſtore to <hi>life,</hi> thoſe that are dead: that from hence proceeded ſo many Pilgrimages into ſtrange Coun<g ref="char:EOLhyphen"/>tries, under pretence whereof many Adulter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, Fornications, Sodomies, Inceſts, and other execrable acts were committed, and the Bodies of thoſe Ador'd and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uper<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>it<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou ly Wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hipped upon Earth, whoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouls were tormented in Hell He adds, that Gold and Silver can work m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch with the People for ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ng of the moſt vile and wicke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon Earth, to the reputation of Holineſs and De<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n; which never can come from the ſpirit of Sanctifica<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, but from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Authority of a mortal and ſinful Man: Yet that thoſe were the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts wherein the <hi>Papiſts</hi> put their hopes, and at whoſe hands they look for Succour both in life and death: <hi>Wherefore,</hi> ſays the Convert, <hi>I utterly renounce them, and put my whole truſt and confidence in my Creator only:</hi> And laſtly, he renders to the Divine Majeſty, eternal thanks above all other benefits of <hi>his</hi> large liberality beſtowed upon him, for his Converſion in particular; proteſting to imploy the Grace and Gifts it had pleas'd <hi>his Omnipotency</hi> to endue him with<g ref="char:EOLhyphen"/>all, to the glorious praiſe of his eternal Majeſty, and the Edifi<g ref="char:EOLhyphen"/>cation <hi>of his Church,</hi> where <hi>his</hi> Word was moſt purely Preach'd, and <hi>his</hi> holy Sacraments moſt ſincerely adminiſtred according to the Inſtitution of <hi>Chriſt.</hi>
+            </p>
+            <p>
+               <hi>John Norman,</hi> Sub-Prior of <hi>Mareſtay,</hi> and a <hi>Predicant</hi> Friar, made publick profeſſion of the <hi>Proteſtant</hi> Religion the ſame year,
+<pb n="7" facs="tcp:179395:4"/>and gave his Reaſons in the <hi>Reformed</hi> Churches of <hi>Yours</hi> and <hi>Traiſ<g ref="char:EOLhyphen"/>neau,</hi> to this effect:</p>
+            <p>In the firſt place, he bewails for having ſo long follow'd the way that conducted to Perdition, and for having forſaken the true Path which was to be trac'd for the attaining of heaven; and then bleſſes himſelf, for that in the end, the Spirit of <hi>God</hi> had brought him to the light of a holy Knowledge <hi>of the way of Salvation: Lo now,</hi> ſays he, <hi>you ſee me unmask'd from the fraudulent embraces of the Strumpet</hi> Babel, <hi>which is the Nurſery of all Impiety; Now am I looſe from the dangerous labyrinth of Errors; Errors ſo abominable, that there is no man of never ſo little Faith, but de<g ref="char:EOLhyphen"/>teſts and renounces them;</hi> particularly he inſtances the boldneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Popiſh Prieſts in uſing the terms, <hi>Qui creavit me, dedit mihi creare ſe;</hi> he that created me, gave me power to create him; and, <hi>qui creavit me ſine me, creatur mediante me;</hi> he that created me without me, is created by my means: Which he aſſerts to be a manifeſt over-throwing the Doctrine concerning the truth of the Humane Nature of <hi>Chriſt,</hi> who has but one Body and not two Bodies, as the words infer; for that by their reckoning, <hi>Chriſt</hi> muſt have one Body fram'd in the Womb of the Pure Vir<g ref="char:EOLhyphen"/>gin, and another which the Creator creates by the Prieſt.</p>
+            <p>In the next place, he objects againſt their daily Sacrificing for the Quick and the Dead; by which means the <hi>Papiſts</hi> ſeem di<g ref="char:EOLhyphen"/>rectly to infer, that the Sacrifice once made by <hi>Chriſt</hi> upon the Croſs, was inſufficient.</p>
+            <p>In the next place, he objects againſt Praying to <hi>Saints,</hi> as de<g ref="char:EOLhyphen"/>priving <hi>Chriſt</hi> of his excelling Titles of Interceſſor and Med<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ator.</p>
+            <p>In the next place, he taxes the <hi>Papiſts</hi> with <hi>Idolatry,</hi> in attri<g ref="char:EOLhyphen"/>buting to a thing without <hi>life,</hi> that which only belongs to <hi>Chriſt;</hi> inſtancing for example, that Prayer of theirs to the Croſs, <hi>Hail Holy Croſs, our only Hope in this time of paſſion; Encreaſe Juſtice to the Godly, and give Mercy to the Guilty.</hi>
+            </p>
+            <p>He further taxes their want of Underſtanding, in believing that by the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Works they Meritoriouſly gain Heaven, as being a palpa<g ref="char:EOLhyphen"/>ble leſſening the <hi>merits of Chriſt,</hi> for that, <hi>if the Graces of God</hi> might be purchas'd by Man's Merits, <hi>Chriſt</hi> had then dy'd in vain: Be<g ref="char:EOLhyphen"/>ſides, that it is contrary to the Scripture, which tells us, <hi>That
+<pb n="8" facs="tcp:179395:5"/>when we have done all we can, we are unprofitable Servants.</hi> In the concluſion, he tells the World, that he has omitted many Super<g ref="char:EOLhyphen"/>ſtitions and Hereſies that caus'd him to fly from the preten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <hi>Catholick Religion,</hi> and to ſettle himſelf with all hum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lity in the <hi>Reformed Church.</hi> Adding withall, that let his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es ſay what they pleas'd, or do what they could, neither Promiſes nor Threats; neither Injuries nor Perſecutions ſhould (with <hi>Gods</hi> grace with<g ref="char:EOLhyphen"/>draw him from his Pious Reſolution, to embrace the true and lively Faith of the <hi>Reformed</hi> Churches. And laſtly, beſeeching the Congregation of the Faithful, meaning the <hi>Proteſtants,</hi> to receive him into their number.</p>
+            <p>The Names of ſeveral <hi>Roman Catholicks</hi> that are turn'd to the <hi>Proteſtant Religion.</hi>
+            </p>
+            <p>In the 12th <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge from 1100,<note place="margin">Sermon <hi>22.</hi> upon the <hi>Canticles.</hi> Sermon <hi>5.</hi> upon <hi>Iſai 6.46.</hi> Sermon <hi>86.</hi> upon the <hi>Canticles.</hi> l. <hi>3.</hi> Com<g ref="char:EOLhyphen"/>ment upon the Book of <hi>Kings,</hi> c. <hi>12.</hi> Summa ſententia, Tract. <hi>6.</hi>
+               </note> to 1200. liv'd St. <hi>Bernard,</hi> a Monk, who held Juſtification by Faith alone, and diſclaim'd Juſtificati<g ref="char:EOLhyphen"/>on by works. <hi>I am not worthy,</hi> ſays he, <hi>neither can I by my own me<g ref="char:EOLhyphen"/>rets obtain the</hi> Kingdom of Heaven, <hi>but reſt upon that Intereſt which I have in the Merits of Chriſt's paſſion.</hi> He alſo taught that the <hi>Euchariſt</hi> was a Commemoration only, in his Sermon upon the <hi>Lords Supper;</hi> he alſo held the Sufficiency of the <hi>Scriptures</hi> without Traditions, affirming that <hi>the Word of God was all in all, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Rupertus Tuitienſis,</hi> taught, That whatſoever concerns the Word of God, whatſoever was to be known or ſpoken touching the Incarnation, the Divinity, and Humanity of <hi>Chriſt,</hi> is contain'd in the Two <hi>Teſtaments;</hi> beſides, or without which two, there was nothing that ought to be deliver'd or believ'd: And <hi>Hugo de Sancto Victore</hi> maintain'd Communicating in both kinds.</p>
+            <p>
+               <hi>Gracianus</hi> the Monk Recites many Ancient Canons and Conſtitutions for Communicating in both kinds,<note place="margin">
+                  <hi>C. 6.</hi> tom. <hi>3.</hi> de conce<g ref="char:EOLhyphen"/>crat. dibt. <hi>2</hi>
+               </note> and declared his Teſtimony againſt <hi>Tranſubſtantiation,</hi> in theſe words; <hi>As the Heavenly Bread which is Chriſt's Body, where indeed it is but the Sacrament of his Body, ſo the ſacrificing of the Fleſh of Christ, is ſaid to be his Paſſion, not in the truth of the thing, but in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſignifying Myſter</hi> Of the ſame Opinion, in the ſame Age, was <hi>Peter Ble<g ref="char:EOLhyphen"/>ſenſis,</hi> Archdeacon of <hi>Bath,</hi> and <hi>Johannes Semeca.</hi>
+            </p>
+            <p>
+               <hi>Dominic Calderinus,</hi> mention<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by <hi>Ladovicus Vives,</hi> condemn'd the whole Maſs; ſo that being urg'd by his Friend to go to Maſs, when he could not in Civility deny it; <hi>Come</hi> (ſaid he) <hi>let us go to the Common Error.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179395:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
